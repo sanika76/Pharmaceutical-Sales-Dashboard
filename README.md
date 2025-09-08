@@ -88,11 +88,11 @@ The goal of this dashboard is to help pharmaceutical companies:
 ---
 
 ## 📂 Project Structure  
-
--Pharmaceutical_Sales_Dashboard.xlsx # Dashboard File
--│── 📄 README.md # Documentation
--│── 🖼 Screenshot-1.png # Dashboard Screenshot (Executive View)
--│── 🖼 Screenshot-2.png # Dashboard Screenshot (Detailed View)
+📁 Pharma-Sales-Dashboard
+│── 📊 Pharmaceutical_Sales_Dashboard.xlsx # Dashboard File
+│── 📄 README.md # Documentation
+│── 🖼 Screenshot-1.png # Dashboard Screenshot (Executive View)
+│── 🖼 Screenshot-2.png # Dashboard Screenshot (Detailed View)
 
 ---
 
